@@ -56,6 +56,8 @@ public class Main {
                 1 - to add item(s) to list (comma delimited list)
                                 
                 2 - to remove any items (comma delimited list)
+                
+                Choose accordingly
                                 
                 Enter a number for which action you want to do:""";
         System.out.print(textBlock + " ");
